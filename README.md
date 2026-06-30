@@ -29,8 +29,8 @@ changes worth several million dollars in savings and OPEX reduction and freed
 
 - **[nickcomeaux-site](https://github.com/Ncomeaux3/nickcomeaux-site)** - source for
   my personal site (static, fast, 100 Lighthouse).
-- **wat-demo** - minimal reference implementation of the Workflows + Agents + Tools
-  pattern. (coming soon)
+- **[wat-demo](https://github.com/Ncomeaux3/wat-demo)** - minimal reference
+  implementation of the Workflows + Agents + Tools pattern.
 
 ## Stack
 
