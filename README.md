@@ -47,6 +47,6 @@ B.S. Industrial and Systems Engineering, Texas A&M University. Lean Six Sigma Gr
 
 ## Contact
 
-- Site: nickcomeaux.vercel.app
+- Site: nicholascomeaux.com
 - LinkedIn: linkedin.com/in/nicholas-comeaux
 - Email: nicholascomeaux00@gmail.com
