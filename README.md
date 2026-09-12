@@ -27,6 +27,10 @@ changes worth several million dollars in savings and OPEX reduction and freed
 
 ## Featured
 
+- **[bellwether](https://github.com/Ncomeaux3/bellwether)** - open archive of
+  developer-infrastructure pricing. A TypeScript pipeline that fetches public
+  pricing pages daily, deduplicates the archive, and publishes a citable board.
+  Runs on a homelab for under a dollar a month.
 - **[nickcomeaux-site](https://github.com/Ncomeaux3/nickcomeaux-site)** - source for
   my personal site (static, fast, 100 Lighthouse).
 - **[wat-demo](https://github.com/Ncomeaux3/wat-demo)** - minimal reference
@@ -38,8 +42,8 @@ changes worth several million dollars in savings and OPEX reduction and freed
   engineering, Trigger.dev
 - **Languages:** Python, TypeScript, SQL
 - **Web:** Next.js, React, Vercel, Postgres (Supabase), Drizzle ORM
-- **Systems & modeling:** systems engineering, Scrum/Agile, Qlik Sense; SolidWorks,
-  AutoCAD, CATIA, MATLAB
+- **Systems & modeling:** systems engineering, Scrum/Agile, Qlik Sense; AutoCAD,
+  Revit, Excel VBA
 
 ## Background
 
