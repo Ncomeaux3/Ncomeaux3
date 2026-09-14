@@ -32,7 +32,7 @@ changes worth several million dollars in savings and OPEX reduction and freed
   pricing pages daily, deduplicates the archive, and publishes a citable board.
   Runs on a homelab for under a dollar a month.
 - **[nickcomeaux-site](https://github.com/Ncomeaux3/nickcomeaux-site)** - source for
-  my personal site (static, fast, 100 Lighthouse).
+  my personal site.
 - **[wat-demo](https://github.com/Ncomeaux3/wat-demo)** - minimal reference
   implementation of the Workflows + Agents + Tools pattern.
 
