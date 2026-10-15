@@ -7,7 +7,7 @@ reliable.
 
 ## Selected work
 
-**[Holon](https://github.com/Ncomeaux3/pos)** - my personal operating system, a solo side project I use
+**[Holon](https://github.com/Ncomeaux3/holon)** - my personal operating system, a solo side project I use
 every day. Claude reaches it through an MCP server I built, and every change the
 model wants is held as a proposal with a diff and a confidence score until I
 approve it. Hybrid search (pgvector embeddings plus full-text), and every model
