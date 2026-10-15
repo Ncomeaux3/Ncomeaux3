@@ -1,15 +1,20 @@
 # Nick Comeaux
 
-Systems engineer turned AI engineer. I build agentic AI systems that wrap
-deterministic code around model judgment so multi-step automation stays reliable.
-Background at Tesla and Boeing; founder of Soltreya.
-
-Open to founding-engineer roles in AI.
+Systems engineer at Boeing, with industrial engineering at Tesla before that. On
+my own time I build software with AI to learn: systems that keep model judgment
+behind deterministic code and a human approval step, so automation stays
+reliable.
 
 ## Selected work
 
-**Soltreya** (soltreya.com) - AI-native quality management for regulated
-manufacturers, built solo. Architected the WAT framework (Workflows, Agents,
+**[Holon](https://github.com/Ncomeaux3/pos)** - my personal operating system, a solo side project I use
+every day. Claude reaches it through an MCP server I built, and every change the
+model wants is held as a proposal with a diff and a confidence score until I
+approve it. Hybrid search (pgvector embeddings plus full-text), and every model
+call is logged and capped by monthly cost.
+
+**Soltreya** - a solo side project (Mar to Jun 2026): AI quality management for
+regulated manufacturers. No customers; I stopped building it in June. Architected the WAT framework (Workflows, Agents,
 Tools): markdown SOP workflows + deterministic Python tools + a Claude orchestrator
 that classifies each request and routes it to one of seven specialist agents. The
 design keeps AI in a scoped reasoning role so chained model steps don't compound
@@ -28,11 +33,13 @@ changes worth several million dollars in savings and OPEX reduction and freed
 ## Featured
 
 - **[bellwether](https://github.com/Ncomeaux3/bellwether)** - open archive of
-  developer-infrastructure pricing. A TypeScript pipeline that fetches public
-  pricing pages daily, deduplicates the archive, and publishes a citable board.
-  Runs on a homelab for under a dollar a month.
+  developer-infrastructure pricing, built in four days. A TypeScript pipeline
+  collected 27 public pricing pages, Claude extracted structured prices, changes
+  were confirmed across two observations, and Claude wrote a cited weekly
+  digest. [Live board](https://bellwether-nicholas-projects-cdfeb046.vercel.app).
+  Not running since August 2026.
 - **[nickcomeaux-site](https://github.com/Ncomeaux3/nickcomeaux-site)** - source for
-  my personal site.
+  my personal site (static, fast, 100 Lighthouse).
 - **[wat-demo](https://github.com/Ncomeaux3/wat-demo)** - minimal reference
   implementation of the Workflows + Agents + Tools pattern.
 
