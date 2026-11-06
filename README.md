@@ -41,7 +41,7 @@ changes worth several million dollars in savings and OPEX reduction and freed
   digest. [Live board](https://bellwether-nicholas-projects-cdfeb046.vercel.app).
   Not running since August 2026.
 - **[nickcomeaux-site](https://github.com/Ncomeaux3/nickcomeaux-site)** - source for
-  my personal site (static, fast, 100 Lighthouse).
+  my personal site (static HTML, CSS, and JavaScript, no build step).
 - **[wat-demo](https://github.com/Ncomeaux3/wat-demo)** - minimal reference
   implementation of the Workflows + Agents + Tools pattern.
 
